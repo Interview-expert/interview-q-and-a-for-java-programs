@@ -11,6 +11,7 @@ These questions and their solutions have been taken from internet from various s
 ### Questions List:
 
 #### Basic
+* https://www.softwaretestinghelp.com/java-coding-interview-programs/
 * https://www.javatpoint.com/fibonacci-series-in-java
 * https://www.javatpoint.com/prime-number-program-in-java
 * https://www.javatpoint.com/palindrome-program-in-java
